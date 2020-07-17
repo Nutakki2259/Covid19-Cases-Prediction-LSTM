@@ -31,3 +31,7 @@ In this case the previous cases increase from 22 Jan 2020 to 14 July 2020 can be
 The estimated increase in future cases can be observed in the plot while data trained with previous cases
 
 ![picture](E:/Github_Projecta/COVID_19/estimation.png)
+
+### References
+https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases
+https://www.curiousily.com/posts/time-series-forecasting-with-lstm-for-daily-coronavirus-cases/
