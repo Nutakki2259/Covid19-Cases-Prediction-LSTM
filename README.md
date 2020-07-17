@@ -1,5 +1,5 @@
 # Covid19-Future-Estimation-Prediction-of-Confirmed-Cases-Through-LSTM
-## In this project the estimation of increase in confirm cases cases in future days using LSTM can be noted.
+## In this project the estimation of increase in confirm cases cases in future days using LSTM can be predicted.
 The dataset of Covid19 confirmed cases from January to July 2020 are taken into consideration from the site https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases available on daily update basis. An approximate measurement of increase in future confirmed covid cases globally are predicted using LSTM.
 
 ### 1. Load the Dataset
@@ -22,7 +22,7 @@ Here, comes with training of the data with build 'FutureDataPrediction' LSTM net
 ### 6. Loss Plot
 It is the plot between the data trained and loss between actual and predicted output. The spikes in the loss may be due to the irregular of data wih daily increase or decrease of incoming confirmed cases but anyways loss is decreasing.
 
-![GitHub Logo](E:/Github_Projecta/COVID_19/loss plot.png)
+![picture](E:/Github_Projecta/COVID_19/loss plot.png)
 
 ### 7. Predict confirm cases 
 In this case the previous cases increase from 22 Jan 2020 to 14 July 2020 can be observed along with the future cases as estimated for a month i.e 15 July 2020 to 13 Aug 2020. Note that, as the data of entries is too small to train the predicted will be purely an approximate number.
@@ -30,4 +30,4 @@ In this case the previous cases increase from 22 Jan 2020 to 14 July 2020 can be
 ### 8. Combination of increment in previous and future confirmed cases.
 The estimated increase in future cases can be observed in the plot while data trained with previous cases
 
-![GitHub Logo](E:/Github_Projecta/COVID_19/estimation.png)
+![picture](E:/Github_Projecta/COVID_19/estimation.png)
