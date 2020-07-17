@@ -35,4 +35,5 @@ The estimated increase in future cases can be observed in the plot while data tr
 
 ### References
 https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases
+
 https://www.curiousily.com/posts/time-series-forecasting-with-lstm-for-daily-coronavirus-cases/
