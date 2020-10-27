@@ -23,7 +23,7 @@ Here, comes with training of the data with build 'FutureDataPrediction' LSTM net
 It is the plot between the data trained and loss between actual and predicted output. The spikes in the loss may be due to the irregular of data wih daily increase or decrease of incoming confirmed cases but anyways loss is decreasing.
 
 
-![Loss vs Epoch](https://github.com/Nutakki2259/Covid19-Future-Estimation-Prediction-of-Confirmed-Cases-Through-LSTM/blob/master/Plots/loss.png)
+![Loss vs Epoch](https://github.com/Nutakki2259/Covid19-Future-Estimation-Prediction-of-Confirmed-Cases-Through-LSTM/blob/master/Plots/loss.PNG)
 
 ### 7. Predict confirm cases 
 In this case the previous cases increase from 22 Jan 2020 to 14 July 2020 can be observed along with the future cases as estimated for a month i.e 15 July 2020 to 13 Aug 2020. Note that, as the data of entries is too small to train the predicted will be purely an approximate number.
@@ -31,9 +31,9 @@ In this case the previous cases increase from 22 Jan 2020 to 14 July 2020 can be
 ### 8. Combination of increment in previous and future confirmed cases.
 The estimated increase in future cases can be observed in the plot while data trained with previous cases
 
-![Estimation](https://github.com/Nutakki2259/Covid19-Future-Estimation-Prediction-of-Confirmed-Cases-Through-LSTM/blob/master/Plots/increment.png)
+![Estimation](https://github.com/Nutakki2259/Covid19-Future-Estimation-Prediction-of-Confirmed-Cases-Through-LSTM/blob/master/Plots/increment.PNG)
 
 ### References
-https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases
+[1] https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases
 
-https://www.curiousily.com/posts/time-series-forecasting-with-lstm-for-daily-coronavirus-cases/
+[2] https://www.curiousily.com/posts/time-series-forecasting-with-lstm-for-daily-coronavirus-cases/
