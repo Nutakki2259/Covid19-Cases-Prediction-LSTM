@@ -1,4 +1,4 @@
-# Covid19-Future-Estimation-Prediction-of-Confirmed-Cases-Through-LSTM
+# Covid19-Future-Confirmed-Cases-Predicction-Through-LSTM
 ## In this project the estimation of increase in confirm cases cases in future days using LSTM can be predicted.
 The dataset of Covid19 confirmed cases from January to July 2020 are taken into consideration from the site https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases available on daily update basis. An approximate measurement of increase in future confirmed covid cases globally are predicted using LSTM.
 
